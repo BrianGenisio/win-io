@@ -24,4 +24,4 @@ psh > net user Administrator [new password]
 Finder > Go > Connect To Server 
 Server Address: smb://192.168.2.2/C$
 
-How do I get access to that file system from my bash shell?
+The file system is available from the command line at "/Volumes/C$"
