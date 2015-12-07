@@ -1,4 +1,6 @@
 # win-io
+
+[![Join the chat at https://gitter.im/BrianGenisio/win-io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BrianGenisio/win-io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This project is in the early exploration stage.  There is nothing usable as of yet.  We've laid out four steps to a mature release, though these steps will likely morph over time.
 
 ## Maturity
