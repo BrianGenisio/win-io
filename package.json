@@ -4,7 +4,7 @@
   "description": "An IO layer for Johnny-Five so the Raspbery Pi can be usded with Windows 10 natively",
   "main": "lib/win-io.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "standard"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "raspberrypi"
   ],
   "author": "Brian Genisio",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/BrianGenisio/win-io/issues"
   },
@@ -27,5 +27,8 @@
   "devDependencies": {
     "pre-commit": "^1.1.2",
     "standard": "^5.4.1"
-  }
+  },
+  "pre-commit": [
+    "lint"
+  ]
 }
