@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/BrianGenisio/win-io",
   "dependencies": {
-    "check-types": "^6.0.0"
+    "check-types": "^1.2"
   },
   "devDependencies": {
     "pre-commit": "^1.1.2",
