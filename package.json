@@ -1,0 +1,31 @@
+{
+  "name": "win-io",
+  "version": "0.0.0",
+  "description": "An IO layer for Johnny-Five so the Raspbery Pi can be usded with Windows 10 natively",
+  "main": "lib/win-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianGenisio/win-io.git"
+  },
+  "keywords": [
+    "firmata",
+    "johnny-five",
+    "raspberrypi"
+  ],
+  "author": "Brian Genisio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianGenisio/win-io/issues"
+  },
+  "homepage": "https://github.com/BrianGenisio/win-io",
+  "dependencies": {
+    "check-types": "^6.0.0"
+  },
+  "devDependencies": {
+    "pre-commit": "^1.1.2",
+    "standard": "^5.4.1"
+  }
+}
